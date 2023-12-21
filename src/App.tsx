@@ -1,4 +1,4 @@
-import { MultiSelect } from './components';
+import { MultiSelect } from './containers';
 
 function App() {
   return (
